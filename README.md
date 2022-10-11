@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rohit-athaide
-- 👀 I’m interested in Java, Python. 
-- 🌱 I’m currently learning Parallel Java, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java, Python.
+- 🌱 I’m currently learning Parallel Java, Springboot, 
+- 💞️ I’m looking to collaborate on nothing at the moment...
+- 📫 How to reach me : that will be hard to do..
 
 <!---
 rohit-athaide/rohit-athaide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
